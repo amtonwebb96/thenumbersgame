@@ -1,2 +1,2 @@
 # thenumbersgame
-A numbers game that needs completed. Written in Liberty Basic
+the number game is a game where you use simple addition, subtraction, division and multiplicatio to solve grid like squares. The game is 99% complete and only needs loading, saving, winning routine and alpha beta testing. Warning I not very good a comenting my code. Sorry. My email address webb.tony96@yahoo.com. The current is a working version so give it a try. Let me know what you think. Thank you
